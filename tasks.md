@@ -16,11 +16,12 @@ Using your understanding of typography, help Aoife Conleavy improve the readabil
  * The footer content should have a line height `1.5` times the font size.
 
 4. The site currently uses common serif and sans-serif fonts found on users’ computers. Since the author first published the site, a number of new font libraries have created fonts that you think would be a better fit for the site.
- Using the [Google Fonts API](http://fonts.google.com), add the following fonts to the **index.html** file:
- * Abril Fatface
- * Work Sans in font-weight 400, 500, and 800.
- * Merriweather in font-weight 400 and 400 italic
- * You may either link these fonts in a single `<link>` tag, or three separate `<link>` tags.
+
+  Using the [Google Fonts API](http://fonts.google.com), add the following fonts to the **index.html** file:
+  * Abril Fatface
+  * Work Sans in font-weight 400, 500, and 800.
+  * Merriweather in font-weight 400 and 400 italic
+  * You may either link these fonts in a single `<link>` tag, or three separate `<link>` tags.
 
 5. You can now use the newly added fonts from Google Fonts within our project. Moving down the page again, set the `font-family` and property as recommended:
 
