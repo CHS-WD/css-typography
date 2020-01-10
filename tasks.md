@@ -10,16 +10,13 @@ Using your understanding of typography, help Aoife Conleavy improve the readabil
 2. Moving down the page, the banner section contains a stunning image, two blocks of text, an `h2` tag with the text **DEC 20XX**, and an `h1` tag with the text **Morocco**. Give the `h2` tag a font weight of `500` and the `h1` tag a font weight of `900`.
 
 3. After reviewing the project, the author suggests that the line height seems a bit off and needs to be altered throughout the page. Work down the page and set `line-height` of the following page elements as recommended:
- 
  * The paragraph within the journal section should have a line height of `1.4` times the font size.
  * The first letter of the journal section should have a line height of `.87` times the font size.
  * The quote should have a line height of `1.2` times the font size.
  * The footer content should have a line height `1.5` times the font size.
 
 4. The site currently uses common serif and sans-serif fonts found on users’ computers. Since the author first published the site, a number of new font libraries have created fonts that you think would be a better fit for the site.
-
  Using the [Google Fonts API](http://fonts.google.com), add the following fonts to the **index.html** file:
-
  * Abril Fatface
  * Work Sans in font-weight 400, 500, and 800.
  * Merriweather in font-weight 400 and 400 italic
