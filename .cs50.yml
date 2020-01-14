@@ -4,6 +4,7 @@ lab50:
     - readme
     - browser
     - terminal
+    - x
   files:
     - !include page.html
     - !include style.css
