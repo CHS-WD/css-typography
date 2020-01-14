@@ -5,6 +5,6 @@ lab50:
     - browser
     - terminal
   files:
-    - !include index.html
+    - !include page.html
     - !include style.css
     - !include reset.css
