@@ -3,6 +3,7 @@ lab50:
     - editor
     - readme
     - browser
+    - terminal
   files:
     - !include index.html
     - !include style.css
